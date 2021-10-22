@@ -1,0 +1,52 @@
+Circuit: * D:\My Documents\University\Fourth Year - 2021\Semester 2\EEE4022S - Research Project\Prototyping\Attempt 2\Draft1.asc
+
+WARNING: Node N002 is floating.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+vernier = 0.5
+vernier = 0.25
+Gmin = 5.73395e-005
+vernier = 0.333333
+vernier = 0.444444
+Gmin = 2.43377e-005
+vernier = 0.592592
+vernier = 0.790123
+Gmin = 6.46745e-006
+vernier = 1
+Gmin = 8.60498e-007
+Gmin = 9.23953e-008
+Gmin = 9.92087e-009
+Gmin = 1.06525e-009
+Gmin = 1.1438e-010
+Gmin = 1.22814e-011
+Gmin = 1.31871e-012
+Gmin = 1.41595e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+
+Date: Wed Sep 22 14:13:45 2021
+Total elapsed time: 0.230 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2997
+traniter = 2089
+tranpoints = 1045
+accept = 1045
+rejected = 0
+matrix size = 62
+fillins = 113
+solver = Normal
+Thread vector: 12.2/9.1[2] 4.9/4.1[2] 3.5/3.1[2] 0.3/2.2[1]  2592/500
+Matrix Compiler1: 13.32 KB object code size  3.4/1.9/[1.0]
+Matrix Compiler2:     572 opcodes  2.0/[1.6]/3.3
+

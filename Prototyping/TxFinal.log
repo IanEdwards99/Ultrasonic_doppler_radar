@@ -1,0 +1,64 @@
+Circuit: * D:\My Documents\University\Fourth Year - 2021\Semester 2\EEE4022S - Research Project\Prototyping\TxFinal.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 1.08884
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 1.03122
+vernier = 0.0078125
+vernier = 0.0104167
+vernier = 0.00520833
+Gmin = 1.01988
+vernier = 0.00260417
+vernier = 0.00347222
+Gmin = 1.01305
+vernier = 0.00173611
+vernier = 0.00231481
+vernier = 0.00115741
+Gmin = 1.01085
+vernier = 0.00154321
+vernier = 0.000771604
+Gmin = 1.00871
+vernier = 0.00102881
+vernier = 0.000514403
+Gmin = 1.00715
+vernier = 0.00068587
+vernier = 0.000514403
+Gmin = 1.0059
+vernier = 0.00068587
+vernier = 0.000514402
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+
+Date: Mon Oct 18 11:36:06 2021
+Total elapsed time: 0.204 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 6355
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 26
+fillins = 28
+solver = Normal
+Matrix Compiler1:     132 opcodes
+Matrix Compiler2: off  [0.3]/0.4/0.4
+

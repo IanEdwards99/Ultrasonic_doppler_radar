@@ -1,0 +1,83 @@
+Circuit: * D:\My Documents\University\Fourth Year - 2021\Semester 2\EEE4022S - Research Project\Prototyping\Attempt 2\Draft2.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 9.04626e-008
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.00260417
+Gmin = 9.01246e-008
+vernier = 0.00347222
+Gmin = 8.94236e-008
+vernier = 0.00462963
+vernier = 0.00617283
+Gmin = 8.8259e-008
+vernier = 0.00823044
+vernier = 0.0109739
+Gmin = 8.64338e-008
+vernier = 0.0146319
+Gmin = 8.36392e-008
+vernier = 0.0195092
+vernier = 0.0260122
+Gmin = 7.91537e-008
+vernier = 0.034683
+vernier = 0.046244
+Gmin = 7.25038e-008
+vernier = 0.0616586
+Gmin = 6.3173e-008
+vernier = 0.0822114
+vernier = 0.109615
+Gmin = 5.01827e-008
+vernier = 0.146154
+vernier = 0.194871
+Gmin = 3.48531e-008
+vernier = 0.259828
+Gmin = 1.97522e-008
+vernier = 0.346438
+vernier = 0.461917
+Gmin = 7.75046e-009
+vernier = 0.615889
+vernier = 0.821185
+Gmin = 1.8157e-009
+vernier = 1
+Gmin = 2.25533e-010
+Gmin = 2.42164e-011
+Gmin = 2.60021e-012
+Gmin = 2.79196e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+
+Date: Wed Sep 22 14:19:00 2021
+Total elapsed time: 0.214 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3640
+traniter = 2082
+tranpoints = 1042
+accept = 1042
+rejected = 0
+matrix size = 8
+fillins = 5
+solver = Normal
+Matrix Compiler1: 458 bytes object code size  0.1/0.1/[0.1]
+Matrix Compiler2: 736 bytes object code size  0.1/0.1/[0.1]
+
